@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="items_array_expandable_level_one">
+        <item>A</item>  <item>B</item> <item>C</item> <item>D</item>  <item>E</item><item>F</item> <item>G</item>  <item>H</item> <item>I</item> <item>J</item> <item>K</item>  <item>L</item> <item>M</item> <item>N</item> <item>O</item> <item>P</item>  <item>Q</item> <item>R</item> <item>S</item> <item>T</item>  <item>U</item> <item>V</item>   <item>W</item> <item>X</item>  <item>Y</item> <item>Z</item>
+    </string-array>
+    <string-array name="items_array_expandable_level_one_one_child">
+        <item>artist vs artiste</item>
+        <item>amend vs emend</item>
+        <item> altogether vs all together</item>
+        <item> altar vs alter</item>
+        <item>adverse vs averse</item>
+        <item>a while vs awhile</item>
+        <item>accent  vs ascent vs assent</item>
+        <item>accept vs except</item>
+        <item>aid vs aide</item>
+        <item>advice vs advise</item>
+        <item>astrology vs astronomy</item>
+    </string-array>
+
+    <string-array name="items_array_expandable_level_one2">
+        <item>artist : (n) a person whose creative work shows sensitivity and imagination
+            "\n"artiste : (n) a public performer (a dancer or singer).</item>
+    </string-array>
+    <string-array name="items_array_expandable_level_one3">
+
+    <item>amend : (v) make changes to, to improve or make better
+            "\n"emend : (v) to make corrections to (not always for the better) (rarely used).</item>
+</string-array>
+    <string-array name="items_array_expandable_level_one4">
+
+<item>altogether : (adv) to a complete degree or to the full or entire extent
+            "\n"all together : (adv) in each other\'s company.</item></string-array>
+    <string-array name="items_array_expandable_level_one5">
+        <item>altar : (n) a table or flat surface where religious rituals take place.
+            "\n"alter : (v) cause to change; make different; cause a transformation.</item></string-array>
+    <string-array name="items_array_expandable_level_one6">
+        <item>adverse : (adj) contrary to one\'s interests or welfare."\n"averse
+            : (adj) strongly opposed (usually followed by (to))</item></string-array>
+    <string-array name="items_array_expandable_level_one7">
+        <item>a while :  a length of time."\n"awhile : (adv) for a short time.</item>
+    </string-array>
+    <string-array name="items_array_expandable_level_one12">
+        <item>    accent : (n)     distinctive manner of oral expression."\n"
+    ascent : (n)  A movement upward."\n"
+    assent : (v)  agreement with a statement or proposal to do something.</item></string-array>
+    <string-array name="items_array_expandable_level_one8">
+        <item>accept : (v)     means to receive willingly."\n"except : (prep)     means apart from or excluding.</item></string-array>
+    <string-array name="items_array_expandable_level_one9">
+        <item>aid : (v)     to give help or assistance, be of service, assistance."\n"aide : (n)    an assistant.</item></string-array>
+    <string-array name="items_array_expandable_level_one10">
+        <item>advice : (n) Opinion about what could or should be done about a situation or problem."\n"advise : (v)To offer advice to, to give information/advice.</item></string-array>
+    <string-array name="items_array_expandable_level_one11">
+        <item>astrology : (n) the study of the movements and positions of the sun, moon, planets and stars, and the skill of describing the expected effect
+            "\n"that some people believe these have on the character and behaviour of humans.
+		"\n"astronomy : (n) the scientific study of the universe and of objects which exist naturally in space, such as the moon, the sun, planets and stars.</item></string-array>
+
+
+    <string-array name="items_array_expandable_level_one_two_child1">
+        <item>bold vs bald</item> <item>ball vs bawl</item>  <item>blue vs blew</item> <item>bridle vs bridal</item>
+        <item>board vs bored</item> <item>breath vs breathe</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>  <string-array name="items_array_expandable_level_one_two_child2">
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+</string-array>  <string-array name="items_array_expandable_level_one_two_child3">
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+</string-array>  <string-array name="items_array_expandable_level_one_two_child4">
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+</string-array>  <string-array name="items_array_expandable_level_one_two_child5">
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+</string-array>  <string-array name="items_array_expandable_level_one_two_child6">
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+</string-array>  <string-array name="items_array_expandable_level_one_two_child7">
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+</string-array>  <string-array name="items_array_expandable_level_one_two_child8">
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+</string-array>  <string-array name="items_array_expandable_level_one_two_child9">
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+</string-array>  <string-array name="items_array_expandable_level_one_two_child10">
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+</string-array>  <string-array name="items_array_expandable_level_one_two_child11">
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+</string-array>  <string-array name="items_array_expandable_level_one_two_child12">
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+</string-array>  <string-array name="items_array_expandable_level_one_two_child13">
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+</string-array>  <string-array name="items_array_expandable_level_one_two_child14">
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+</string-array>  <string-array name="items_array_expandable_level_one_two_child15">
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+</string-array>  <string-array name="items_array_expandable_level_one_two_child16">
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+</string-array>  <string-array name="items_array_expandable_level_one_two_child17">
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+</string-array>  <string-array name="items_array_expandable_level_one_two_child18">
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+</string-array>  <string-array name="items_array_expandable_level_one_two_child19">
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+</string-array>  <string-array name="items_array_expandable_level_one_two_child20">
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+</string-array>  <string-array name="items_array_expandable_level_one_two_child21">
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+</string-array>
+    <string-array name="items_array_expandable_level_one_two_child22">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="items_array_expandable_level_one_two_child23">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="items_array_expandable_level_one_two_child24">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="items_array_expandable_level_three"><item> bold : (adj) someone who is fearless and courageous.
+           bald : (adj) it is used to describe someone (usually a man) with no hair on their head.</item></string-array>
+    <string-array name="items_array_expandable_level_three1"><item>ball : (n) round object that is hit, thrown or kicked in games.
+           bawl : (v) shout loudly and without restraint, to cry.</item></string-array>
+    <string-array name="items_array_expandable_level_three2"><item> blue : (n) of the color intermediate between green and violet; having a color similar to that of a clear unclouded sky.
+           blew : (v) Exhaled hard.</item></string-array>
+    <string-array name="items_array_expandable_level_three3"><item>bridle : (n) headgear for a horse; includes a headstall and bit and reins to give the rider or driver control.
+           bridal : (n) a marriage ceremony; a wedding.</item></string-array>
+    <string-array name="items_array_expandable_level_three4"><item></item></string-array>
+    <string-array name="items_array_expandable_level_three5"><item></item></string-array>
+    <string-array name="items_array_expandable_level_three6"><item></item></string-array>
+    <string-array name="items_array_expandable_level_three7"><item></item></string-array>
+    <string-array name="items_array_expandable_level_three8"><item></item></string-array>
+    <string-array name="items_array_expandable_level_three9"><item></item></string-array>
+    <string-array name="items_array_expandable_level_three10"><item></item></string-array>
+    <string-array name="items_array_expandable_level_three11"><item></item></string-array>
+    <string-array name="items_array_expandable_level_three12"><item></item></string-array>
+    <string-array name="items_array_expandable_level_three13"><item></item></string-array>
+    <string-array name="items_array_expandable_level_three14"><item></item></string-array>
+    <string-array name="items_array_expandable_level_three15"><item></item></string-array>
+    <string-array name="items_array_expandable_level_three16"><item></item></string-array>
+    <string-array name="items_array_expandable_level_three17"><item></item></string-array>
+
+    <string-array name="items_array_expandable_level_one_two_child">
+        <item></item>
+        <item>Level 1.2.2</item>
+        <item>Level 1.2.3</item>
+    </string-array>
+    <string-array name="items_array_expandable_level_two">
+        <item>Second Level 01</item>
+        <item>Second Level 02</item>
+        <item>Second Level 03</item>
+        <item>Second Level 04</item>
+        <item>Second Level 05</item>
+        <item>Second Level 06</item>
+        <item>Second Level 07</item>
+    </string-array>
+</resources>
